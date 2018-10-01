@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/sam/VMware%20Tools/VMwareTools-10.2.5-8068393.tar.gz" added="2018-09-03T15:34:59Z" modified="2018-09-03T15:44:39Z" visited="2018-09-03T15:34:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-09-03T15:44:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/.cache/.fr-JgYPSp/vmware-tools-distrib/INSTALL" added="2018-09-03T15:35:04Z" modified="2018-09-03T15:35:04Z" visited="2018-09-03T15:35:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-install"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-09-03T15:35:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/.cache/.fr-zX3PSK/vmware-tools-distrib/vmware-install.pl" added="2018-09-03T15:40:30Z" modified="2018-09-03T15:40:30Z" visited="2018-09-03T15:40:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-09-03T15:40:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/.cache/.fr-xv982L/vmware-tools-distrib/INSTALL" added="2018-09-03T15:40:47Z" modified="2018-09-03T15:40:47Z" visited="2018-09-03T15:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-install"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-09-03T15:40:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/Desktop" added="2018-09-03T15:42:48Z" modified="2018-09-03T15:45:11Z" visited="2018-09-03T15:42:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-09-03T15:44:03Z" count="2"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-09-03T15:45:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

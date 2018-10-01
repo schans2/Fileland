@@ -1,0 +1,74 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "VMware, Inc.",
+    "Product": "VMware Virtual Platform"
+  },
+  "BIOS": {
+    "Vendor": "Phoenix Technologies LTD",
+    "Version": "6.00"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "2",
+    "Threads": "1",
+    "Cores": "1",
+    "Sockets": "2",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "158",
+    "Stepping": "10",
+    "Name": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+    "Hypervisor": "VMware",
+    "VirtualizationType": "full"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 4,
+  "Partitions": [
+    41
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "800x600",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "America/New_York",
+  "Install": {
+    "Media": "Ubuntu 18.04.1 LTS \"Bionic Beaver\" - Release amd64 (20180725)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "32": "console_setup",
+      "43": "prepare",
+      "74": "partman",
+      "85": "start_install",
+      "92": "timezone",
+      "96": "usersetup",
+      "140": "user_done",
+      "341": "done"
+    }
+  }
+}
