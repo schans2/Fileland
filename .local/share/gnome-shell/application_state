@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="72" last-seen="1538413196"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="99" last-seen="1538413397"/>
     <application id="update-manager.desktop" open-window-count="1" score="30" last-seen="1538412955"/>
   </context>
 </application-state>

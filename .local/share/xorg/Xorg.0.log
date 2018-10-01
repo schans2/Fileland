@@ -323,3 +323,4 @@ Release Date: 2017-12-20
 [   140.498] (DB) vmware(0): New layout.
 [   140.498] (DB) vmware(0): 0: 0 0 958 926
 [   140.498] (DB) vmware(0): 
+[  1771.445] (II) event2  - VirtualPS/2 VMware VMMouse: Enabling spurious button debouncing, see https://wayland.freedesktop.org/libinput/doc/1.10.4/button_debouncing.html for details
