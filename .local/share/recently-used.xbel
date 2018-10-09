@@ -63,7 +63,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/sam/README.md" added="2018-10-01T17:13:49Z" modified="2018-10-01T17:13:49Z" visited="2018-10-01T17:13:49Z">
+  <bookmark href="file:///home/sam/README.md" added="2018-10-01T17:13:49Z" modified="2018-10-09T17:05:44Z" visited="2018-10-01T17:13:49Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -71,7 +71,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-01T17:13:49Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-09T17:05:44Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -105,6 +105,45 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-01T17:36:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/Test%203" added="2018-10-09T17:05:07Z" modified="2018-10-09T17:05:07Z" visited="2018-10-09T17:05:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-09T17:05:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/Fileland/README.md" added="2018-10-09T17:05:13Z" modified="2018-10-09T17:05:13Z" visited="2018-10-09T17:05:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-09T17:05:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sam/Fileland/file1.txt" added="2018-10-09T17:05:24Z" modified="2018-10-09T17:05:24Z" visited="2018-10-09T17:05:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-10-09T17:05:24Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

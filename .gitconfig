@@ -1,3 +1,5 @@
 [user]
 	email = schans2@rpi.edu
 	name = schans2
+[color]
+	ui = true

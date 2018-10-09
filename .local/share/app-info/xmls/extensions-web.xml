@@ -269,7 +269,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -405,7 +405,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="21"/>
+      <release version="22"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1119,6 +1119,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1295_x5PSxQS.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="8"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -1691,7 +1694,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="17"/>
+      <release version="18"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1984,7 +1987,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="27"/>
+      <release version="28"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -5173,7 +5176,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="1"/>
+      <release version="2"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6355,7 +6358,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="29"/>
+      <release version="27"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6965,7 +6968,7 @@
     <id>desktop-icons_csoriano</id>
     <name>Desktop Icons</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Add icons to the desktop</p></description>
+    <description><p>Add icons to the desktop. More info, issues and development at https://gitlab.gnome.org/World/ShellExtensions/desktop-icons</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8732,6 +8735,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_907.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="12"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -9740,7 +9746,7 @@
     <id>gnome-shell-go-to-last-workspace_github.com</id>
     <name>Go To Last Workspace</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Quickly toggle between two workspaces with a hotkey (default: Super+Escape)</p><p>Repeatedly pressing &lt;Super&gt;escape causes the active workspace to toggle between the last two selected workspaces. Only tested with Gnome version 3.20.</p></description>
+    <description><p>Quickly toggle between two workspaces with one key</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -9748,6 +9754,9 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1089/go-to-last-workspace/</url>
+    <releases>
+      <release version="3"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -9861,6 +9870,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_48_LXIenlM.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="15"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -13424,7 +13436,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="2"/>
+      <release version="3"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -13450,7 +13462,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="15"/>
+      <release version="16"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -15592,7 +15604,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="7"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16089,7 +16101,7 @@
     <id>randomwallpaper_iflow.space</id>
     <name>Random Wallpaper</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Fetches a random wallpaper from an online source and sets it as desktop background.  The desktop background can be updated periodically or manually.</p><p>Online sources: - unsplash.com - desktopper.co - wallhaven.cc - basic JSON APIs or Files (See the GitHub wiki for more information) (Chromecast, Bing, NASA, Google Earth View, etc.)</p><p>Warning: Currently there seems to be a bug in GNOME 3.24 and 3.26 which could cause crashes of the shell and result in a loss of unsaved work on Wayland. If you encounter any problems, try to disable the hover preview in the options.</p></description>
+    <description><p>This extension fetches a random wallpaper from an online source and sets it as desktop background.  The desktop background can be updated periodically or manually.</p><p>Online sources: - unsplash.com - desktopper.co - wallheaven.cc - reddit.com - basic JSON APIs or Files (See the GitHub wiki for more information) (Chromecast, Bing, NASA, Google Earth View, etc.)</p><p>Warning: Currently there seems to be a bug in GNOME 3.24 and 3.26 which could cause crashes of the shell and result in a loss of unsaved work on wayland. If you encounter any problems, try to disable the hover preview in the options.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -16103,7 +16115,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="11"/>
+      <release version="13"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16993,6 +17005,9 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/</url>
+    <releases>
+      <release version="20"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -18461,7 +18476,7 @@
     <id>syncthing_gnome.2nv2u.com</id>
     <name>Syncthing Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Put an indicator on the panel signalling the Syncthing deamon status using systemd</p></description>
+    <description><p>Put an indicator on the panel signalling the Syncthing daemon status using systemd</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -18474,6 +18489,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1070_3VzC2d9.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="7"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -18832,7 +18850,7 @@
     <id>text_translator_awamper.gmail.com</id>
     <name>Text Translator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>** Needs the package translate-shell ** Translation of the text by different translators (currently Google.Translate, Yandex.Translate). Shortcuts: Super+T - open translator dialog. Super+Shift+T - open translator dialog and translate text from clipboard. Super+Alt+T - open translator dialog and translate from primary selection. Ctrl+Enter+ - Translate text. Ctrl+Shift+C - copy translated text to clipboard. Ctrl+S - swap languages. Ctrl+D - reset languages to default Tab+ - toggle transliteration of result text.</p></description>
+    <description><p>** Needs the package translate-shell ** This extension needs the package translate-shell. Also, make sure you have the following dependencies installed: sudo apt install gir1.2-clutter-1.0 gir1.2-clutter-gst-3.0 gir1.2-gtkclutter-1.0</p><p>Translation of the text by different translators (currently Google.Translate, Yandex.Translate). Shortcuts: Super+T - open translator dialog. Super+Shift+T - open translator dialog and translate text from clipboard. Super+Alt+T - open translator dialog and translate from primary selection. Ctrl+Enter+ - Translate text. Ctrl+Shift+C - copy translated text to clipboard. Ctrl+S - swap languages. Ctrl+D - reset languages to default Tab+ - toggle transliteration of result text.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -19426,6 +19444,32 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>topbarclocks_sevag.hanssian.gmail.com</id>
+    <name>Top Bar Clocks</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Add World Clocks to the top bar</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1479/top-bar-clocks/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1479.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="1"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">topbarclocks@sevag.hanssian.gmail.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>touch-screen-right-click_andrej.gricenko</id>
     <name>Right-click For Touch Screen</name>
     <summary>GNOME Shell Extension</summary>
@@ -19993,7 +20037,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="2"/>
+      <release version="5"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -20466,7 +20510,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="2"/>
+      <release version="3"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21359,7 +21403,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="27"/>
+      <release version="29"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21553,7 +21597,7 @@
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/943/workspace-scroll/</url>
     <releases>
-      <release version="4"/>
+      <release version="5"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21700,7 +21744,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="6"/>
+      <release version="7"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21844,7 +21888,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="5"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
